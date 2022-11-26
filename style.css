@@ -1,5 +1,5 @@
 body{
-	background-color: darkslategrey;
+	background-color: blue;
 	text-align: center;
 }
 
@@ -10,7 +10,7 @@ img{
 
 ul{
 	list-style-type: square;
-	width: 75px;
+	width: auto;
 	margin: 0 auto 0 auto;
 }
 
