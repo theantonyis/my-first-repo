@@ -1,0 +1,19 @@
+body{
+	background-color: darkslategrey;
+	text-align: center;
+}
+
+img{
+	width: 200px;
+	height: 200px;
+}
+
+ul{
+	list-style-type: square;
+	width: 75px;
+	margin: 0 auto 0 auto;
+}
+
+ul li{
+	color: white;
+}
